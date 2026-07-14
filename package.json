@@ -1,6 +1,6 @@
 {
   "name": "@devinat1/skillify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Turn a public website into a portable agent skill over MCP.",
   "type": "module",
   "bin": {
